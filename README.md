@@ -1,3 +1,5 @@
+![a](https://user-images.githubusercontent.com/104103280/200177173-45731cc4-5834-407b-b38e-44ac75fe0c86.png)
+
 # BG-NBD ve Gamma-Gamma ile CLTV Tahmini
 
 ## İş Problemi
